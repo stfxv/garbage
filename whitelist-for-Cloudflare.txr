@@ -1,0 +1,10 @@
+! Title: stfxv's Allowlist for cloudflare zerotrust
+! Syntax: AdBlock
+! Number of entries: 6
+!
+@@||dns.cloudflare.com^
+@@||cloudflare-dns.com^
+@@||cloudflare-gateway.com^
+@@||api.cloudflareclient.com^
+@@||cloudflareresolve.com^
+@@||one.one.one.one^
