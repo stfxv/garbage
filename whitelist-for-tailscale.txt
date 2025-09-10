@@ -1,5 +1,5 @@
 ! Title: stfxv's Allowlist for cloudflare zerotrust
 ! Syntax: AdBlock
-! Number of entries: 6
+! Number of entries: 1
 !
 @@||tailscale.com^
