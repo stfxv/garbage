@@ -8,4 +8,3 @@
 @@||api.cloudflareclient.com^
 @@||cloudflareresolve.com^
 @@||one.one.one.one^
-@@||icloud.com^
